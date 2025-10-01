@@ -17,7 +17,6 @@ storage/key_value_stores/default/*
 
 # Added by Apify CLI
 .venv
-.env
 
 # Aider coding agent files
 .aider*
@@ -28,3 +27,4 @@ key.pem
 
 # Ignore MCP config for Opencode client
 opencode.json
+config.bat
